@@ -1,0 +1,2 @@
+Average flight duration: 7 hours and 32 minutes.
+90 percentile: 9 hours and 45 minutes.
